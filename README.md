@@ -20,32 +20,30 @@
 
 ## Agenda items
 
-1. Opening, welcome
 1. Opening of the meeting
-1. Introduction of attendees
 1. Host facilities, local logistics
-1. Find volunteers for terminal show up / tips
+1. Introduction of attendees
 1. Adoption of the agenda
- - https://github.com/masashi-ca/vim-toronto
+   1. https://github.com/masashi-ca/vim-toronto
 1. Tell why I started this meetup.(5m)
 1.  Why do you want to learn vim?(5m)
 1. Show how I start using Terminal.app and vim for my work(5m)
 1. Recent developers trend from Stackoverflow.com and Hackerrank.com
- - https://research.hackerrank.com/developer-skills/2018
- - https://insights.stackoverflow.com/survey/2017
+   1. https://research.hackerrank.com/developer-skills/2018
+   1. https://insights.stackoverflow.com/survey/2017
 1. Vim tutorial
- - http://learnvimscriptthehardway.stevelosh.com/
- - http://vimawesome.com
- - http://vim-adventures.com
+   1. http://learnvimscriptthehardway.stevelosh.com/
+   1. http://vimawesome.com
+   1. http://vim-adventures.com
 1. How to utilize vim.
- - Git status
- - List files.
- - Enable vim plugins.
- - Enjoy themes and colours.
+   1. Git status
+   1. List files.
+   1. Enable vim plugins.
+   1. Enjoy themes and colours.
 1. Vim for your platform
- - OSX
- - Windows
- - Linux
+   1. OSX
+   1. Windows
+   1. Linux
 
 1. Thank host
 1. Close
