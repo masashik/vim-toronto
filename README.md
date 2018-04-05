@@ -21,11 +21,11 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
 
 ## Agenda for the 1st meeting
 
-- **Host**: The DMZ, Toronto, ON
-- **Dates**: 2nd week of April, 2018 (Tentatively scheduled)
-- **Times**: 18:30 to 20:00 EDT
+- **Host**: 		The DMZ, Toronto, ON
+- **Dates**: 		April 12, 2018 (Schedule Confirmed)
+- **Times**: 		18:00 to 20:00 EDT
 - **Location**: The DMZ, 10 Dundas St E Suite 600, M5B 2G9 Toronto (Directly above Dundas Square)
-- **Wifi**: TBA
+- **Wifi**: 		Guest Wi-Fi will be available.
 - **Contacts**: Masashi (Please sign up and find me in the meetup.com)
 
 ## Logistics
@@ -40,6 +40,7 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
 ## Agenda items
 
 1. Opening of the meetup
+1. Introduction of DMZ
 1. Host facilities, local logistics
 1. Introduction of attendees
 1. Adoption of the agenda
@@ -50,7 +51,10 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
 1. Recent developers trend from Stackoverflow.com and Hackerrank.com
    1. https://research.hackerrank.com/developer-skills/2018
    1. https://insights.stackoverflow.com/survey/2017
+	 1. https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/
 1. Vim tutorial
+   1. Set up vim and terminal for OSX(Terminal.app), Windows(Git Bash/Cmder), and Linux(Terminal)
+   1. Enter vimtutor in your terminal.
    1. http://learnvimscriptthehardway.stevelosh.com/
    1. http://vimawesome.com
    1. http://vim-adventures.com
@@ -59,12 +63,10 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
    1. List files.
    1. Enable vim plugins.
    1. Enjoy themes and colours.
-1. Vim for your platform
-   1. OSX
-   1. Windows
-   1. Linux
-
+1. Wrap Up
+   1. Review / Homework
 1. Thank host
+1. Networking (7:30PM to 8:00PM)
 1. Closing of the meeup
 
 
