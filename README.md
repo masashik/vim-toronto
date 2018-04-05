@@ -39,39 +39,42 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
 
 ## Agenda items
 
-1. Opening of the meetup
+1. Opening of the meetup(6:00PM)
 1. Introduction of DMZ
 1. Host facilities, local logistics
 1. Introduction of attendees
 1. Adoption of the agenda
    1. https://github.com/masashi-ca/vim-toronto
-1. Tell why I started this meetup.(5m)
-1.  Why do you want to learn vim?(5m)
-1. Show how I start using Terminal.app and vim for my work(5m)
-1. Recent developers trend from Stackoverflow.com and Hackerrank.com
+1. Tell you why I started this meetup.
+1. Tell me why you want to learn vim.
+1. Recent developers trend from Stackoverflow.com, Hackerrank.com, and other resources.
    1. https://research.hackerrank.com/developer-skills/2018
    1. https://insights.stackoverflow.com/survey/2017
 	 1. https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/
+	 1. https://ca.indeed.com/jobs?q=vim&l=Toronto%2C+ON
+1. Show how I start using Terminal.app and vim for my work.
 1. Vim tutorial
    1. Set up vim and terminal for OSX(Terminal.app), Windows(Git Bash/Cmder), and Linux(Terminal)
    1. Enter vimtutor in your terminal.
    1. http://learnvimscriptthehardway.stevelosh.com/
    1. http://vimawesome.com
    1. http://vim-adventures.com
-1. How to utilize vim.
+1. Examples to utilize vim.
+	 1. Move around large text file.
    1. Git status
    1. List files.
    1. Enable vim plugins.
    1. Enjoy themes and colours.
+1. Raise your hand to show off your vim/terminal/tips!
 1. Wrap Up
    1. Review / Homework
 1. Thank host
 1. Networking (7:30PM to 8:00PM)
 1. Closing of the meeup
 
-
 ## Dates and locations of future meetings
 
 	| Dates                    | Location          | Host                    |
 	|--------------------------|-------------------|-------------------------|
+	| 2018-04-12               | DMZ               | Masashi                 |
 	| 2018-??-??               | TBD               | Masashi & Guest         |
