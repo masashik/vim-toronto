@@ -21,7 +21,7 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
 
 ## Agenda for the 1st meeting
 
-- **Host**: The DMG, Toronto, ON
+- **Host**: The DMZ, Toronto, ON
 - **Dates**: 2nd week of April, 2018 (Tentatively scheduled)
 - **Times**: 18:30 to 20:00 EDT
 - **Location**: The DMZ, 10 Dundas St E Suite 600, M5B 2G9 Toronto (Directly above Dundas Square)
