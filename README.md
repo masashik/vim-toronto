@@ -60,8 +60,11 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
    1. http://vimawesome.com
    1. http://vim-adventures.com
 1. Examples to utilize vim.
-	 1. Move around large text file.
-   1. Git status
+	 1. Move around large text file (My work journal).
+	 1. Javascript
+	 1. Python
+	 1. Java
+   1. Git log/status
    1. List files.
    1. Enable vim plugins.
    1. Enjoy themes and colours.
