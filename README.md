@@ -40,7 +40,8 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
 ## Agenda items
 
 1. Opening (6:00PM)
-1. Introduction of DMZ
+1. Introduction of the Vim-Toronto
+1. Introduction of the DMZ
 1. Host facilities, local logistics
 1. Introduction of attendees
 1. Adoption of the agenda
