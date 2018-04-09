@@ -21,7 +21,7 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
 
 ## Agenda for the 1st meeting
 
-- **Host**: 		The DMZ, Toronto, ON
+- **Host**: 		Masashi & The Digital Media Zone (DMZ)
 - **Dates**: 		April 12, 2018 (Schedule Confirmed)
 - **Times**: 		18:00 to 20:00 EDT
 - **Location**: The DMZ, 10 Dundas St E Suite 600, M5B 2G9 Toronto (Directly above Dundas Square)
@@ -39,7 +39,7 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
 
 ## Agenda items
 
-1. Opening of the meetup(6:00PM)
+1. Opening (6:00PM)
 1. Introduction of DMZ
 1. Host facilities, local logistics
 1. Introduction of attendees
@@ -56,15 +56,20 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
 1. Vim tutorial
    1. Set up vim and terminal for OSX(Terminal.app), Windows(Git Bash/Cmder), and Linux(Terminal)
    1. Enter vimtutor in your terminal.
-   1. http://learnvimscriptthehardway.stevelosh.com/
-   1. http://vimawesome.com
-   1. http://vim-adventures.com
+   1. Tips not present in vimtutor.
+	 		1. diw (Delete a word under cursor)
+	 		2. di" (Delete anything between surrounded by double quotation.)
+	 		3. C-a,C-x to increment and decrement numbers on cursor.
+	 		4. dap (Delete a paragraph.)
+	 		5. tab (vim -p <FILE1>, <FILE2>, <FILE3>, ...)
+	 		6. find ./ > src.txt; vim src.txt (Alternative way to browse source code of a project.)
+	 		7. = Format indentations of a file.
 1. Examples to utilize vim.
 	 1. Move around large text file (My work journal).
-	 1. Javascript
-	 1. Python
-	 1. Java
-   1. Git log/status
+	 1. Development in Javascript
+	 1. Development in Python
+	 1. Development in Java
+   1. 'git log' and 'git status'
    1. List files.
    1. Enable vim plugins.
    1. Enjoy themes and colours.
@@ -72,8 +77,8 @@ This Code of Conduct, like its inspiration from the the Serverless Meetup NYC / 
 1. Wrap Up
    1. Review / Homework
 1. Thank host
-1. Networking (7:30PM to 8:00PM)
-1. Closing of the meeup
+1. Networking (7:30PM)
+1. Closing (8:00PM)
 
 ## Dates and locations of future meetings
 
