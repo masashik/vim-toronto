@@ -57,18 +57,18 @@
    1. Enjoy themes and colours.
 1. Raise your hand to show off your vim/terminal/tips! (Message me, Please!)
 1. Wrap Up
-   1. Review / Homework
-	 		1.Nano/Pico
-	 		1.folding
-	 		1.package managers/plugin management.
-	 		1.Persistence file open browser? (I didn't properly follow this. Sorry for this!)
-	 		1.mru.vim/buffer
-	 		1.https://github.com/brooth/far.vim
-	 		1.https://github.com/Shougo/denite.nvim
-	 		1.Syntax checking for plugins.(Javascript/Java/etc...)
-	 		1.Emacs v.s. vim
-	 		1.This meetup should run monthy.
-	 		1.Vim quiz platform, vimgolf. https://vimgolf.com
+	1. Review / Homework
+		1. Nano/Pico
+		2. Folding
+		3. package managers/plugin management.
+		4. Persistence file open browser? (I didn't properly follow this. Sorry for this!)
+		5. mru.vim/buffer
+		6. https://github.com/brooth/far.vim
+		7. https://github.com/Shougo/denite.nvim
+		8. Syntax checking for plugins.(Javascript/Java/etc...)
+		9. Emacs v.s. vim
+		10. This meetup should run monthy.
+		11. Vim quiz platform, vimgolf. https://vimgolf.com
 1. Thank host
 1. Networking (7:30PM)
 1. Closing (8:00PM)
