@@ -36,16 +36,16 @@
 	 1. https://ca.indeed.com/jobs?q=vim&l=Toronto%2C+ON
 1. Show how I start using Terminal.app and vim for my work.
 1. Vim tutorial
-   1. Set up vim and terminal for OSX(Terminal.app), Windows(Git Bash/Cmder), and Linux(Terminal)
-   1. Enter vimtutor in your terminal.
-   1. Tips not present in vimtutor.
-	 		1. diw (Delete a word under cursor)
-	 		1. di" (Delete anything between surrounded by double quotation.)
-	 		1. C-a,C-x to increment and decrement numbers on cursor.
-	 		1. dap (Delete a paragraph.)
-	 		1. tab (vim -p <FILE1>, <FILE2>, <FILE3>, ...)
-	 		1. find ./ > src.txt; vim src.txt (Alternative way to browse source code of a project.)
-	 		1. = Format indentations of a file.
+	1. Set up vim and terminal for OSX(Terminal.app), Windows(Git Bash/Cmder), and Linux(Terminal)
+	1. Enter vimtutor in your terminal.
+	1. Tips not present in vimtutor.
+		1. diw (Delete a word under cursor)
+		2. di" (Delete anything between surrounded by double quotation.)
+		3. C-a,C-x to increment and decrement numbers on cursor.
+		4. dap (Delete a paragraph.)
+		5. tab (vim -p <FILE1>, <FILE2>, <FILE3>, ...)
+		6. find ./ > src.txt; vim src.txt (Alternative way to browse source code of a project.)
+		7. = Format indentations of a file.
 1. Examples to utilize vim.
 	 1. Move around large text file (My work journal).
 	 1. Development in Javascript
