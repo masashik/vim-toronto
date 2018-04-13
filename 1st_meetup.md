@@ -40,12 +40,12 @@
    1. Enter vimtutor in your terminal.
    1. Tips not present in vimtutor.
 	 		1. diw (Delete a word under cursor)
-	 		2. di" (Delete anything between surrounded by double quotation.)
-	 		3. C-a,C-x to increment and decrement numbers on cursor.
-	 		4. dap (Delete a paragraph.)
-	 		5. tab (vim -p <FILE1>, <FILE2>, <FILE3>, ...)
-	 		6. find ./ > src.txt; vim src.txt (Alternative way to browse source code of a project.)
-	 		7. = Format indentations of a file.
+	 		1. di" (Delete anything between surrounded by double quotation.)
+	 		1. C-a,C-x to increment and decrement numbers on cursor.
+	 		1. dap (Delete a paragraph.)
+	 		1. tab (vim -p <FILE1>, <FILE2>, <FILE3>, ...)
+	 		1. find ./ > src.txt; vim src.txt (Alternative way to browse source code of a project.)
+	 		1. = Format indentations of a file.
 1. Examples to utilize vim.
 	 1. Move around large text file (My work journal).
 	 1. Development in Javascript
@@ -58,17 +58,17 @@
 1. Raise your hand to show off your vim/terminal/tips! (Message me, Please!)
 1. Wrap Up
    1. Review / Homework
-	 	 Nano/Pico
-	 	 folding
-	 	 package managers/plugin management.
-	 	 Persistence file open browser? (I didn't properly follow this. Sorry for this!)
-	 	 mru.vim/buffer
-	 	 https://github.com/brooth/far.vim
-	 	 https://github.com/Shougo/denite.nvim
-	 	 Syntax checking for plugins.(Javascript/Java/etc...)
-	 	 Emacs v.s. vim
-	 	 This meetup should run monthy.
-	 	 Vim quiz platform, vimgolf. https://vimgolf.com
+	 		1.Nano/Pico
+	 		1.folding
+	 		1.package managers/plugin management.
+	 		1.Persistence file open browser? (I didn't properly follow this. Sorry for this!)
+	 		1.mru.vim/buffer
+	 		1.https://github.com/brooth/far.vim
+	 		1.https://github.com/Shougo/denite.nvim
+	 		1.Syntax checking for plugins.(Javascript/Java/etc...)
+	 		1.Emacs v.s. vim
+	 		1.This meetup should run monthy.
+	 		1.Vim quiz platform, vimgolf. https://vimgolf.com
 1. Thank host
 1. Networking (7:30PM)
 1. Closing (8:00PM)
